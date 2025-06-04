@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Onursal Toparlak\\Desktop\\Udemy Projeler\\Bilgi_Yarismasi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8601DFD-D89F-49E3-8E69-24B3DA066A88}|Bilgi_Yarismasi\\Bilgi_Yarismasi.csproj|c:\\users\\onursal toparlak\\desktop\\udemy projeler\\bilgi_yarismasi\\bilgi_yarismasi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8601DFD-D89F-49E3-8E69-24B3DA066A88}|Bilgi_Yarismasi\\Bilgi_Yarismasi.csproj|solutionrelative:bilgi_yarismasi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8601DFD-D89F-49E3-8E69-24B3DA066A88}|Bilgi_Yarismasi\\Bilgi_Yarismasi.csproj|C:\\Users\\Onursal Toparlak\\Desktop\\Udemy Projeler\\Bilgi_Yarismasi\\bilgi_yarismasi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B8601DFD-D89F-49E3-8E69-24B3DA066A88}|Bilgi_Yarismasi\\Bilgi_Yarismasi.csproj|solutionrelative:bilgi_yarismasi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Onursal Toparlak\\Desktop\\Udemy Projeler\\Bilgi_Yarismasi\\Bilgi_Yarismasi\\Form1.cs",
+              "RelativeDocumentMoniker": "Bilgi_Yarismasi\\Form1.cs",
+              "ToolTip": "C:\\Users\\Onursal Toparlak\\Desktop\\Udemy Projeler\\Bilgi_Yarismasi\\Bilgi_Yarismasi\\Form1.cs",
+              "RelativeToolTip": "Bilgi_Yarismasi\\Form1.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T19:59:08.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Onursal Toparlak\\Desktop\\Udemy Projeler\\Bilgi_Yarismasi\\Bilgi_Yarismasi\\Form1.cs",
+              "RelativeDocumentMoniker": "Bilgi_Yarismasi\\Form1.cs",
+              "ToolTip": "C:\\Users\\Onursal Toparlak\\Desktop\\Udemy Projeler\\Bilgi_Yarismasi\\Bilgi_Yarismasi\\Form1.cs [Design]",
+              "RelativeToolTip": "Bilgi_Yarismasi\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T19:43:32.765Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
